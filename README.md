@@ -1,2 +1,3 @@
-# idk
-Where the web is lol
+# Readme
+- C++ Developer
+- LUA Developer
